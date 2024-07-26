@@ -4,7 +4,7 @@ This repository contains an implementation of the A* (A-Star) pathfinding algori
 
 ## Features
 
-- **A* Algorithm**: Efficiently finds the shortest path between the start and goal nodes.
+- **A\* Algorithm**: Efficiently finds the shortest path between the start and goal nodes.
 - **Visualization**: Provides a visual representation of the grid, obstacles, start, and goal nodes, and the path found by the algorithm.
 - **Interactive UI**: Allows users to interact with the grid, set start and goal nodes, and add obstacles.
 
