@@ -19,8 +19,8 @@ This repository contains an implementation of the A* (A-Star) pathfinding algori
 
 Clone the repository:
    ```bash
-   git clone https://github.com/Aftaab25/AStarPathfinder.git
-   cd AStarPathfinder
+   git clone https://github.com/maskedsyntax/intellipath.git
+   cd intellipath
    ```
 
 ### Running the App
@@ -54,7 +54,7 @@ Press `Enter` to clear the grid and draw new maps to play with.
 
 - **Imports**: Necessary libraries including Pygame and heapq.
 - **Node Class**: Represents a single node in the grid with attributes like position, cost, heuristic, and parent.
-- **A* Algorithm**: Implements the A* search algorithm to find the shortest path.
+- **A\* Algorithm**: Implements the A* search algorithm to find the shortest path.
 - **Visualization**: Uses Pygame to visualize the grid, obstacles, start and goal nodes, and the path found by the algorithm.
 - **Event Handling**: Handles user input for setting start and goal nodes, adding obstacles, and resetting the grid.
 
